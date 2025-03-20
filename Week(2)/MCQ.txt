@@ -1,0 +1,19 @@
+Q1)
+1) 
+2) 
+3) 0.1
+4) 0.06
+5) 2/555
+6) 0.135
+-----------------------------------
+Q2)
+7) (C)
+8) (A)
+9) (C)
+10) (A)
+
+-------------------------------
+(Bonus)
+# > Something Went Wrong
+# because the comparison if S1 == S2: is not valid for Pandas Series
+
